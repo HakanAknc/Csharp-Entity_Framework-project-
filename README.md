@@ -1,10 +1,10 @@
 # Csharp-Entity_Framework-project-
 
 **Entity Framework Project**
-Entity Framework, Microsoft tarafından geliştirilen bir ORM (Object-Relational Mapping) aracıdır. Veritabanı işlemlerini nesne odaklı bir şekilde gerçekleştirmeyi sağlar.
+-Entity Framework, Microsoft tarafından geliştirilen bir ORM (Object-Relational Mapping) aracıdır. Veritabanı işlemlerini nesne odaklı bir şekilde gerçekleştirmeyi sağlar.
 
 -Geliştirme Yaklaşımları
-Entity Framework kullanırken Code First, Model First ve Database First olmak üzere üç farklı geliştirme yaklaşımı bulunmaktadır.
+-Entity Framework kullanırken Code First, Model First ve Database First olmak üzere üç farklı geliştirme yaklaşımı bulunmaktadır.
 
 -DbFirst Modeli Dahil Etme
 Database First yaklaşımıyla projeye var olan bir veritabanını model olarak dahil etme işlemi.
