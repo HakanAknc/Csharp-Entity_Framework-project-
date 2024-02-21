@@ -1,0 +1,17 @@
+C:\Users\Hakan Akıncı\C#_EntityFramework\Urun_Takip_Entity\Urun_Takip_Entity\bin\Debug\Urun_Takip_Entity.exe.config
+C:\Users\Hakan Akıncı\C#_EntityFramework\Urun_Takip_Entity\Urun_Takip_Entity\bin\Debug\Urun_Takip_Entity.exe
+C:\Users\Hakan Akıncı\C#_EntityFramework\Urun_Takip_Entity\Urun_Takip_Entity\bin\Debug\Urun_Takip_Entity.pdb
+C:\Users\Hakan Akıncı\C#_EntityFramework\Urun_Takip_Entity\Urun_Takip_Entity\bin\Debug\EntityFramework.dll
+C:\Users\Hakan Akıncı\C#_EntityFramework\Urun_Takip_Entity\Urun_Takip_Entity\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Hakan Akıncı\C#_EntityFramework\Urun_Takip_Entity\Urun_Takip_Entity\bin\Debug\EntityFramework.xml
+C:\Users\Hakan Akıncı\C#_EntityFramework\Urun_Takip_Entity\Urun_Takip_Entity\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Hakan Akıncı\C#_EntityFramework\Urun_Takip_Entity\Urun_Takip_Entity\obj\Debug\Urun_Takip_Entity.csproj.AssemblyReference.cache
+C:\Users\Hakan Akıncı\C#_EntityFramework\Urun_Takip_Entity\Urun_Takip_Entity\obj\Debug\Urun_Takip_Entity.Form1.resources
+C:\Users\Hakan Akıncı\C#_EntityFramework\Urun_Takip_Entity\Urun_Takip_Entity\obj\Debug\Urun_Takip_Entity.Properties.Resources.resources
+C:\Users\Hakan Akıncı\C#_EntityFramework\Urun_Takip_Entity\Urun_Takip_Entity\obj\Debug\Urun_Takip_Entity.csproj.GenerateResource.cache
+C:\Users\Hakan Akıncı\C#_EntityFramework\Urun_Takip_Entity\Urun_Takip_Entity\obj\Debug\Urun_Takip_Entity.csproj.CoreCompileInputs.cache
+C:\Users\Hakan Akıncı\C#_EntityFramework\Urun_Takip_Entity\Urun_Takip_Entity\obj\Debug\Urun_Takip_Entity.csproj.CopyComplete
+C:\Users\Hakan Akıncı\C#_EntityFramework\Urun_Takip_Entity\Urun_Takip_Entity\obj\Debug\Urun_Takip_Entity.exe
+C:\Users\Hakan Akıncı\C#_EntityFramework\Urun_Takip_Entity\Urun_Takip_Entity\obj\Debug\Urun_Takip_Entity.pdb
+C:\Users\Hakan Akıncı\C#_EntityFramework\Urun_Takip_Entity\Urun_Takip_Entity\obj\Debug\Urun_Takip_Entity.FrmUrunler.resources
+C:\Users\Hakan Akıncı\C#_EntityFramework\Urun_Takip_Entity\Urun_Takip_Entity\obj\Debug\Urun_Takip_Entity.Frmistatistik.resources
